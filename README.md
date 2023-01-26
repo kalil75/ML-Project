@@ -8,7 +8,7 @@ Build a classifier to categorize webpages as evergreen or non-evergreen
  Many people know evergreen content when they see it, but can an algorithm make the same determination without human intuition? Your mission is to build a classifier which will evaluate a large set of URLs and label them as either evergreen or ephemeral. 
  
  
- # My Score in KAGGLE :78,285%
+ # My Score on KAGGLE :78,285%
  
  
  ![ml](https://user-images.githubusercontent.com/40873969/214974267-a5df0426-515a-4303-97b8-f6763e974429.PNG)
